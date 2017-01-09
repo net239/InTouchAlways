@@ -1,0 +1,65 @@
+
+Fixes :
+1. Change "called days back" to months/year etc.
+2. Last Contacted to be changed to  Last Called
+3. increase size of text field that displays called x days back
+4. new tutorial
+5. Timer is only for next day ...
+6. issue with notes editting
+7. home button link
+
+
+
+DONE Version 2
+2. Support for  SMS, email
+4. Set time of reminder
+5. Change Settings page
+6. Make buttons on settings more clear
+7. Check Sarrah's review 
+8. Check Jyoti's bugs
+9. text under lookup and settings buttons
+10. duplicate contacts
+11. memory leaks check
+
+
+
+DONE Version 1.101
+1. Remove .PSD and AppPreview images to decreease size of Project - DONE
+2. Fixed bug related to call confirmation dialog in ios8
+
+
+
+DONE
+9. In the details screen - if user presses call button, save existing contact first
+6. popup after the call to update last contacted
+10. Check for empty and ill formed phone numbers
+5. Change Default for new contacts to today from last year
+4. Icon Badge
+11.reload table view when app is agian coming back tp focus especially next day
+12 scrollable details
+13 better landscape view
+8. well formatted phone number
+18. landscape scroll - make it work on empty space
+15. Auto Save
+16. do not save without name 
+20  rearrange view to have a separate edit screen
+3. Reminder popup
+1.  Integerate with Contacts
+5. Multiple phone numbers
+3. Update notes with last contacted
+3. Fix call crash
+4. Fix Analyze Addressbook memory leak issues
+6. Better call button
+7. Multi colors on first screen - red - to be called today, yellow, green etc.
+8. replace lens with Serach in Addressbook or better icon
+9. Beautify the whole thing
+10. Initial splash screen
+12. BUG found. Edit, load a contact from addressbok but cancel.
+12. Make sure support email works
+13. 4s Tutorial screens
+
+
+
+
+
+
